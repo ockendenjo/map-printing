@@ -16,3 +16,6 @@ The box size of the control descriptions should be between 5 and 7mm when printe
 
 ### Course closing time
 Add the course closing time as the last line in the control descriptions. [More details...](instructions/course-closing.md)
+
+### Add course name
+It might be useful to add the course name in large pink letters somewhere on the map. [More details...](instructions/course-name.md)
