@@ -12,7 +12,7 @@ Please send me the final set of files at least one week before the maps will be 
 ## Things to check
 
 ### Control descriptions size
-The box size of the control descriptions should be between 5 and 7mm when printed. [More details...](descriptions-size.md)
+The box size of the control descriptions should be between 5 and 7mm when printed. [More details...](instructions/descriptions-size.md)
 
 ### Course closing time
-Add the course closing time as the last line in the control descriptions. [More details...](course-closing.md)
+Add the course closing time as the last line in the control descriptions. [More details...](instructions/course-closing.md)
