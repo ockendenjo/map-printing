@@ -1,4 +1,4 @@
-#Control descriptions size
+# Control descriptions size
 
 The box size of the control descriptions should be between 5 and 7mm when printed.
 
