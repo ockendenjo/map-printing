@@ -1,6 +1,8 @@
 # Map printing
 
-I no longer print the maps for SROC races, but the following information may still be helpful.
+I no longer print the maps for SROC races, but the following information may still be helpful for planners.
+
+There are also some instructions [here](./printer/README.md) which might be useful to the map printer.
 
 ## Things to check
 

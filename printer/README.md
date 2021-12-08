@@ -1,0 +1,11 @@
+# Map printer
+
+Useful instructions for the SROC map printer (north).
+
+See also the instructions for planners when using Purple Pen [here](../README.md)
+
+## Things to check
+
+### Purple overprint colour
+
+The course may be easier to read if the colour of the purple overprint is changed. [More details...](./purple-colour.md)
