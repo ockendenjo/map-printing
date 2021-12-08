@@ -14,3 +14,4 @@ The course may be easier to read if the colour of the purple overprint is change
 ## Using the printer
 
  * [Feeding paper and selecting paper source](paper.md)
+ * [Toner cartridges](toner.md)
