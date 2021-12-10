@@ -15,3 +15,7 @@ The course may be easier to read if the colour of the purple overprint is change
 
  * [Feeding paper and selecting paper source](paper.md)
  * [Toner cartridges](toner.md)
+
+## Complex printing
+
+* [A5 or A6 printing](a5-a6-or-sheet-printing.md)
